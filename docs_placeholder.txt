@@ -1,0 +1,2 @@
+FIN-GUARD AI - prototype initial.
+Avant production, faire valider les extractions, les variables, les seuils, les procédures d'investigation et les droits d'accès par les responsables métiers, conformité, audit et informatique.
